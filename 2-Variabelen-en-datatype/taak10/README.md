@@ -20,8 +20,8 @@ Stel je maakt een spel waar de speler steeds een item aan een lijst moet toevoeg
 ```
 >
 ## Leerdoelen
->1. [ ] Ik weet wat string operators zijn
->2. [ ] Ik kan een extra tekst waarde aan een string variabele toevoegen
+>1. [x] Ik weet wat string operators zijn
+>2. [x] Ik kan een extra tekst waarde aan een string variabele toevoegen
 
 ## Opdracht
 >1. Schrijf je code in `index.php`
