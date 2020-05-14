@@ -51,9 +51,9 @@ Je maakt zelf de keuze welke je gebruikt `include` of `require`. De meest logisc
 </head>
 ```
 ## Leerdoelen
->1. [ ] Ik weet wat include en require is
->2. [ ] Ik weet het verschil tussen include en require
->3. [ ] Ik kan include en require gebruiken
+>1. [x] Ik weet wat include en require is
+>2. [x] Ik weet het verschil tussen include en require
+>3. [x] Ik kan include en require gebruiken
 
 ## Opdracht
 
